@@ -1,0 +1,16 @@
+{
+  "version": 1,
+  "base_track": "カオカオ",
+  "base_artist": "Dannie May",
+  "createdAt": "2025-12-09T03:58:26.067409Z",
+  "candidates": [
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "カオカオ",
+      "artist": "Dannie May",
+      "has_synced": false,
+      "path": "select/pl_01_カオカオ_Dannie_May.txt"
+    }
+  ]
+}
